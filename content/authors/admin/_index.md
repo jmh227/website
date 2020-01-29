@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: John M. Henry
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,23 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. Student, Quantitative Ecology and Resource Management
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Washington
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include mathematical modeling for malaria epidemiology.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Within-host Dynamics
+- Immunity
+- Anemia
+- Ordinary, Partial, and Stochastic Differential Equations
+- Probability and Random Processes
+- Simulation
 
 education:
   courses:
